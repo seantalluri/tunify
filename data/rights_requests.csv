@@ -1,0 +1,6 @@
+rights_request_id,voice_mode,requested_subject,consent_status,documented_permission,expected_action
+RIGHTS-01,instrumental-lead,none,not-required,not-required,allow
+RIGHTS-02,generic-synthetic-voice,licensed-library,license-confirmed,yes,allow
+RIGHTS-03,user-voice-clone,project-owner,attested,yes,allow-with-approval
+RIGHTS-04,third-party-voice-clone,fictional-session-singer,documented,yes,allow-with-approval
+RIGHTS-05,third-party-voice-clone,unnamed-other-singer,missing,no,refuse

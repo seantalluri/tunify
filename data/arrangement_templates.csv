@@ -1,0 +1,6 @@
+template_id,template_name,sections,total_bars,intro_bars,outro_bars,dynamic_arc
+FORM-01,Verse Chorus Lift,intro|verse|chorus|verse|chorus|outro,72,4,4,quiet-to-full
+FORM-02,Ballad Build,intro|verse|pre-chorus|chorus|bridge|chorus|outro,88,4,6,gradual-build
+FORM-03,Compact Praise,intro|verse|chorus|bridge|double-chorus|outro,80,4,4,early-energy
+FORM-04,Call and Response,intro|leader|response|leader|response|bridge|outro,76,4,4,alternating
+FORM-05,Prayer Flow,intro|verse|refrain|instrumental|refrain|outro,64,6,6,restrained-wave

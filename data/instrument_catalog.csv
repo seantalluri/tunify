@@ -1,0 +1,13 @@
+instrument_id,instrument_name,family,style_profile_ids,range_role,layer_rule
+INST-01,Piano,keys,STYLE-01|STYLE-02|STYLE-06,mid-to-wide,foundation
+INST-02,Electric Piano,keys,STYLE-05|STYLE-06,mid,warm-foundation
+INST-03,Organ,keys,STYLE-02|STYLE-05,mid-to-wide,sustain-support
+INST-04,Acoustic Guitar,guitar,STYLE-01,mid,rhythmic-foundation
+INST-05,Electric Guitar,guitar,STYLE-03,mid-to-high,energy-layer
+INST-06,Electric Bass,bass,STYLE-01|STYLE-02|STYLE-03|STYLE-04|STYLE-05,low,one-bass-layer
+INST-07,Upright Bass,bass,STYLE-06,low,one-bass-layer
+INST-08,Drum Kit,percussion,STYLE-01|STYLE-02|STYLE-03|STYLE-05|STYLE-06,full-rhythm,one-primary-groove
+INST-09,Tabla,percussion,STYLE-04,mid-rhythm,do-not-stack-with-busy-kit
+INST-10,Dholak,percussion,STYLE-04,low-mid-rhythm,alternate-with-tabla
+INST-11,String Pad,texture,STYLE-01|STYLE-02|STYLE-04,mid-to-high,enter-after-foundation
+INST-12,Choir Pad,texture,STYLE-02|STYLE-05,mid-to-high,licensed-generic-only

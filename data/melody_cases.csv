@@ -1,0 +1,16 @@
+melody_id,title,duration_seconds,tempo_bpm,key_signature,tempo_confidence,key_confidence,clarity_score,ambiguity_level,pitch_contour,file_integrity,melody_detected,style_profile_id,template_id,progression_id,rights_request_id,chord_fit_attempts,chord_fit_status,expected_route
+MEL-001,Synthetic Morning Praise,38,92,D major,94,91,96,low,rising-resolved,valid,yes,STYLE-01,FORM-01,PROG-01,RIGHTS-01,0,pass,proceed
+MEL-002,Synthetic Quiet Mercy,44,68,G major,89,86,92,low,arch-shaped,valid,yes,STYLE-02,FORM-02,PROG-02,RIGHTS-01,0,pass,proceed
+MEL-003,Synthetic Joyful Steps,31,118,A major,87,84,88,low,repeating-leap,valid,yes,STYLE-03,FORM-01,PROG-03,RIGHTS-01,1,pass,proceed
+MEL-004,Synthetic Hazy Refrain,41,76,E minor,54,57,63,high,descending-fragment,valid,yes,STYLE-02,FORM-03,PROG-04,RIGHTS-01,0,untested,clarify
+MEL-005,Synthetic Open Hands,52,72,C major,78,74,80,medium,stepwise-rise,valid,yes,STYLE-01,FORM-02,PROG-05,RIGHTS-01,0,pass,confirm
+MEL-006,Synthetic River Chant,36,104,B minor,83,81,85,medium,call-response,valid,yes,STYLE-04,FORM-04,PROG-06,RIGHTS-01,1,pass,proceed
+MEL-007,Synthetic Soft Benediction,57,62,F major,82,79,84,medium,narrow-arch,valid,yes,STYLE-02,FORM-05,PROG-07,RIGHTS-01,0,pass,confirm
+MEL-008,Synthetic Broken Capture,0,0,unknown,0,0,5,critical,none,corrupted,no,STYLE-01,FORM-01,PROG-NONE,RIGHTS-01,0,not-applicable,stop
+MEL-009,Synthetic Crowd Noise Test,29,88,C minor,48,43,51,high,partial-contour,valid,yes,STYLE-03,FORM-03,PROG-08,RIGHTS-01,0,untested,clarify
+MEL-010,Synthetic Grace Lift,47,84,E-flat major,93,90,94,low,ascending-sequence,valid,yes,STYLE-05,FORM-02,PROG-09,RIGHTS-02,0,pass,proceed
+MEL-011,Synthetic Chromatic Bridge,49,96,G major to A-flat major,76,64,86,high,chromatic-modulation,valid,yes,STYLE-06,FORM-04,PROG-10,RIGHTS-01,2,fail,escalate
+MEL-012,Synthetic Steady Hope,40,80,B-flat major,91,88,93,low,repeated-peak,valid,yes,STYLE-01,FORM-01,PROG-11,RIGHTS-01,0,pass,proceed
+MEL-013,Synthetic Free-Time Prayer,55,0,D minor,35,82,87,high,rubato-arch,valid,yes,STYLE-02,FORM-05,PROG-12,RIGHTS-01,0,pass,clarify
+MEL-014,Synthetic Cross-Rhythm Praise,34,126,F-sharp minor,73,77,79,medium,syncopated-rise,valid,yes,STYLE-04,FORM-03,PROG-13,RIGHTS-03,1,pass,confirm
+MEL-015,Synthetic Borrowed Voice Request,43,90,A-flat major,92,90,95,low,stepwise-resolved,valid,yes,STYLE-05,FORM-02,PROG-14,RIGHTS-05,0,pass,refuse-escalate

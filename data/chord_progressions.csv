@@ -1,0 +1,16 @@
+progression_id,key_signature,roman_numerals,chords,fit_basis,expected_fit
+PROG-01,D major,I|V|vi|IV,D|A|Bm|G,strong beats use D F-sharp A B or G,pass
+PROG-02,G major,I|iii|IV|V,G|Bm|C|D,arch resolves through B C D and G,pass
+PROG-03,A major,I|V|vi|IV,A|E|F-sharp-minor|D,repeating leap lands on chord tones,pass-after-one-revision
+PROG-04,E minor,i|VI|III|VII,Em|C|G|D,partial contour leaves tonic and relative-major uncertain,untested
+PROG-05,C major,I|V|vi|IV,C|G|Am|F,stepwise rise avoids sustained non-chord tones,pass
+PROG-06,B minor,i|VII|VI|VII,Bm|A|G|A,modal response phrases resolve to B and A,pass-after-one-revision
+PROG-07,F major,I|vi|IV|V,F|Dm|B-flat|C,narrow contour centers A F and G,pass
+PROG-08,C minor,i|VI|III|VII,Cm|A-flat|E-flat|B-flat,incomplete contour requires confirmation,untested
+PROG-09,E-flat major,I|vi|IV|V,E-flat|Cm|A-flat|B-flat,ascending sequence lands on stable scale tones,pass
+PROG-10,G major to A-flat major,I|IV|chromatic-pivot|I,G|C|D7-to-E-flat7|A-flat,bridge melody conflicts with both pivot attempts,fail-after-two-revisions
+PROG-11,B-flat major,I|V|vi|IV,B-flat|F|Gm|E-flat,repeated peak is supported as third or fifth,pass
+PROG-12,D minor,i|VI|III|VII,Dm|B-flat|F|C,rubato timing prevents confident harmonic rhythm,pass-with-tempo-clarification
+PROG-13,F-sharp minor,i|VI|III|VII,F-sharp-minor|D|A|E,syncopated rise fits after one chord-duration revision,pass-after-one-revision
+PROG-14,A-flat major,I|vi|IV|V,A-flat|Fm|D-flat|E-flat,stepwise contour is compatible but rights request blocks voice action,pass
+PROG-NONE,unknown,none,none,no recoverable pitch contour,not-applicable

@@ -1,0 +1,7 @@
+style_profile_id,profile_name,mode,tempo_range,beat_feel,harmonic_character,preferred_instruments,avoid
+STYLE-01,Contemporary Worship,faithful,68-96,steady-eighths,open-diatonic,piano|acoustic-guitar|bass|drums|pad,heavy-syncopation
+STYLE-02,Gospel Ballad,faithful,58-82,slow-six-eight,rich-diatonic,piano|organ|bass|brush-drums|strings,aggressive-distortion
+STYLE-03,Modern Praise,faithful,100-132,driving-four-four,bright-diatonic,electric-guitar|bass|drums|synth-pad|claps,free-time-rubato
+STYLE-04,Indian-Influenced Praise,creative,86-126,syncopated-groove,modal-color,tabla|dholak|bass|keys|strings,artist-imitation
+STYLE-05,Soulful Gospel,creative,72-104,laid-back-pocket,seventh-rich,electric-piano|organ|bass|drums|choir-pad,thin-harmony
+STYLE-06,Jazz-Tinged Worship,creative,72-112,light-swing-or-straight,extended-harmony,piano|upright-bass|brush-drums|horn-pad,unresolved-dissonance
